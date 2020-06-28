@@ -1,2 +1,2 @@
 # BC-654
-Hardware plans for WWII BC-654 radio restoration.
+This repository contains hardware plans for restoration of the WWII era Crosley BC-654 radio set. These materials are provide to supplement the BC-654 restoration videos on the [Wartime Workshop](wartimeworkshop.com) YouTube channel.
